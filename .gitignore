@@ -1,4 +1,4 @@
 *.py
+*.pyc
 .DS_Store
 .ipynb_checkpoints
-.__pycache__
